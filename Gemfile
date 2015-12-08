@@ -34,6 +34,10 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 
 gem 'devise'
 
+gem "ckeditor"
+
+gem "paperclip"
+
 group :production do
   gem 'rails_12factor'
 end
